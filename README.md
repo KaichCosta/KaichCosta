@@ -1,5 +1,5 @@
 # Navegando entre o suporte técnico e o desenvolvimento web, apaixonado por resolver problemas.
-### Atualmente, estou mergulhado no mundo da TI como estagiário de Suporte, onde ajudo a gerenciar o fluxo de obras e faturamento. Enquanto isso, continuo firme nos meus estudos em Python e Desenvolvimento Web (HTML, CSS, JS), sempre buscando oportunidades para otimizar os processos do meu dia a dia com um pouco de código.
+##### Atualmente, estou mergulhado no mundo da TI como estagiário de Suporte, onde ajudo a gerenciar o fluxo de obras e faturamento. Enquanto isso, continuo firme nos meus estudos em Python e Desenvolvimento Web (HTML, CSS, JS), sempre buscando oportunidades para otimizar os processos do meu dia a dia com um pouco de código.
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -10,9 +10,9 @@
 </div>
 
 <div>
-  ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=KaichCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaichCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> </img>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula)
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula" ></img>
 </div>
 
 <div>
