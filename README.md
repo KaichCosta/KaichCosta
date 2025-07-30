@@ -11,6 +11,7 @@
 
 <div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="48%" height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7](https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical&theme=dracula" ></img>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula" ></img>
 </div>
 
