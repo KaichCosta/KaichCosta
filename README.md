@@ -10,8 +10,7 @@
 </div>
 
 <div>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaichCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> </img>
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula" ></img>
 </div>
 
