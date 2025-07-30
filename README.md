@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <img width="200px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical&theme=dracula&langs_count=7" ></img>
+  <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical&theme=dracula&langs_count=7" ></img>
 </div>
 
 <div>
