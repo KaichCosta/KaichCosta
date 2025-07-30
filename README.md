@@ -10,9 +10,9 @@
 </div>
 
 <div>
-  ![Estatísticas do GitHub do Torrado](https://github-readme-stats.vercel.app/api?username=KaichCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+  ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=KaichCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=compact&langs_count=7&theme=dracula)
 </div>
 
 <div>
