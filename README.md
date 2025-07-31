@@ -21,4 +21,10 @@
   <p>🌱 Estou aprendendo frameworks de Python como Flask e Django e bibliotecas como Pandas e Openpyxl para mexer nas planilhas). </p>
 </div>
 
-
+<div>
+     
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" />
+               
+</div>
