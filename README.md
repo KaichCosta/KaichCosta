@@ -8,13 +8,14 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/48px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 </div>
-
+---
 <div>
   <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical&theme=dracula&langs_count=7" ></img>
+  <p>🔭 Atualmente estou trabalhando com Excel, e tentando integrar bibliotecas de Python nas planilhas (Pandas e Openpyxl).</p>
+
+  <p>🌱 Estou aprendendo frameworks de Python como Flask e Django e bibliotecas como Pandas e Openpyxl para mexer nas planilhas). </p>
 </div>
 
 <div>
-  <p>🔭 Atualmente estou trabalhando com Excel, e tentando integrar bibliotecas de Python nas planilhas (Pandas e Openpyxl).</p>
-
- <p>🌱 Estou aprendendo frameworks de Python como Flask e Django e bibliotecas como Pandas e Openpyxl para mexer nas planilhas). </p>
+  
 </div>
