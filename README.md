@@ -11,11 +11,9 @@
 ---
 <div>
   <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaichCosta&layout=donut-vertical&theme=dracula&langs_count=7" ></img>
+</div>
+<div>
   <p>🔭 Atualmente estou trabalhando com Excel, e tentando integrar bibliotecas de Python nas planilhas (Pandas e Openpyxl).</p>
 
   <p>🌱 Estou aprendendo frameworks de Python como Flask e Django e bibliotecas como Pandas e Openpyxl para mexer nas planilhas). </p>
-</div>
-
-<div>
-  
 </div>
