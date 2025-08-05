@@ -1,5 +1,5 @@
 # Navegando entre o suporte técnico e o desenvolvimento web, apaixonado por resolver problemas.
-<p> Atualmente, estou mergulhado no mundo da TI como estagiário de Suporte, onde ajudo a gerenciar o fluxo de obras e faturamento. Enquanto isso, continuo firme nos meus estudos em Python e Desenvolvimento Web (HTML, CSS, JS), sempre buscando oportunidades para otimizar os processos do meu dia a dia com um pouco de código.</p>
+<p> Atualmente, estou mergulhado no mundo da TI como estagiário de Suporte, onde ajudo a gerenciar o fluxo de obras e faturamento da atual empresa onde estou. Enquanto isso, continuo firme nos meus estudos em Python e Desenvolvimento Web (HTML, CSS e JS), sempre buscando oportunidades para otimizar os processos do meu dia a dia com um pouco de código.</p>
 
 ## Tecnologias 👨🏽‍💻
 <div>
