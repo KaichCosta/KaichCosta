@@ -21,9 +21,9 @@
   
   <p> 
     
-  - Frameworks de Python como: Flask | Django <br>
+  - Manipulação de DOM com Javascript <br>
     
-  - Bibliotecas como: Pandas | Openpyxl
+  - Bibliotecas Python como: Pandas | Openpyxl | Selenium
   </p>
   
 </div>
